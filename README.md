@@ -85,10 +85,10 @@ todo-app/
 4. **Open your browser**
    Navigate to http://localhost:3000 to view the application
 
-### Build for Production
-```bash
-npm run build
-```
+---
+
+## 📸 Screenshot
+![Main Page](https://github.com/rohittkale/Todo-App/blob/main/public/TodoMain.png)
 
 ---
 
@@ -200,18 +200,9 @@ Currently uses localStorage. Can be extended to support:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙋‍♂️ Author
-
-**Your Name**  
-📧 Email: your.email@example.com  
-🔗 GitHub: [@yourusername](https://github.com/yourusername)  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+Name: Rohit Pran Kale<br>
+Mail: kalerohit1912@gmail.com
 
 ---
 
