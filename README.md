@@ -83,12 +83,23 @@ todo-app/
    ```
 
 4. **Open your browser**
-   Navigate to http://localhost:3000 to view the application
+   Navigate to http://localhost:5173/ to view the application
 
 ---
 
 ## 📸 Screenshot
+
+### Main Page
 ![Main Page](https://github.com/rohittkale/Todo-App/blob/main/public/TodoMain.png)
+
+### Add Task
+![Add Task](https://github.com/rohittkale/Todo-App/blob/main/public/AddedTask.png)
+
+### Before Complete Task
+![Before Complete Task](https://github.com/rohittkale/Todo-App/blob/main/public/BeforeComplete.png)
+
+### After Complete Task
+![After Complete Task](https://github.com/rohittkale/Todo-App/blob/main/public/AfterComplete.png)
 
 ---
 
