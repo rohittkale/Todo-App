@@ -99,7 +99,7 @@ todo-app/
 ![Before Complete Task](https://github.com/rohittkale/Todo-App/blob/main/public/BeforeComplete.png)
 
 ### After Complete Task
-![After Complete Task](https://github.com/rohittkale/Todo-App/blob/main/public/AfterComplete.png)
+![After Complete Task](https://github.com/rohittkale/Todo-App/blob/98da2ef76a9312d096970695f1b96d6304596e74/public/AfterComplete.png)
 
 ---
 
